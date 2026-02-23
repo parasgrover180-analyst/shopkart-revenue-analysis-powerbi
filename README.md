@@ -40,15 +40,15 @@ This project analyzes revenue performance, customer retention, return rate, and 
 
 # Dashboard Preview
 ## KPI Overview
-![KPI Overview](Screenshots/kpi.overview.png)
+![KPI Overview](screenshots/kpi.overview.png)
 
 ## Revenue Trend
-![Revenue Trend](Screenshots/revenue.trend.png)
+![Revenue Trend](screenshots/revenue.trend.png)
 
 ## Category Analysis
-![Category Analysis](Screenshots/category.analysis.png)
+![Category Analysis](screenshots/category.analysis.png)
 
 ## Customer Split
-![Customer Split](Screenshots/customer.splits.png)
+![Customer Split](screenshots/customer.splits.png)
 ## Project Type
 End-to-end business revenue analysis dashboard built for portfolio demonstration.
