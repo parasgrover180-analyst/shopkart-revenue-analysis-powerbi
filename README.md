@@ -40,7 +40,7 @@ This project analyzes revenue performance, customer retention, return rate, and 
 
 # Dashboard Preview
 ## KPI Overview
-![KPI Overview](Screenshots/kpi.overview.png)
+![KPI Overview](kpi.overview.png)
 
 ## Revenue Trend
 ![Revenue Trend](Screenshots/revenue.trend.png)
